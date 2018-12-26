@@ -1,0 +1,3 @@
+id(imdb_id, options = {}) ⇒ Hash
+search(title) ⇒ Array, Hash (also: #find)
+title(title, options = {}) ⇒ Hash
